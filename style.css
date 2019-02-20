@@ -1,0 +1,317 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#first{
+	height:100px;
+	background:black;
+	padding-top: 0px;
+	
+}
+
+.header{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+}
+
+.full-width{
+	margin:20px;
+}
+.logo{
+	float: left;
+	width:40%;
+	
+}
+.menu{
+	margin-top:20px;
+	float: left;
+	width:60%;
+}
+.menu ul{
+	
+}
+
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding-left:10px;
+}
+.menu ul li a{
+	font-size: 20px;
+	padding:10px 15px;
+	text-decoration:none;
+	color:white;
+	
+	/* background:yellow; */
+}
+
+.menu ul li a:hover{
+	color:red;
+	/* background:red; */
+	
+}
+
+#second-section{
+	padding-top:30px;
+	
+}
+.about{
+	max-width:1170px;
+	margin:0 auto;
+	
+	overflow: hidden;
+}
+
+.about_image{
+	width:45%;
+	float: left;
+	
+}
+.about_content{
+	
+	font-size: 30px;
+	padding-left:25px;
+}
+..about_content h1{
+	    line-height: 1.04;
+}
+#third-section{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+	height:350px;
+}
+.blog_left{
+	width:50%;
+	margin:right;
+	
+	float:left;
+}
+.blog_right{
+	padding-top:45px;
+	width:50%;
+	font-size:25px;
+	
+	float:right;
+}
+.blog_right p{
+	font:center;
+}
+
+#fourth-section{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+	
+}
+
+.step01_image{
+	padding: 50% 25% 0% 30%;
+	background-image:url(image/step_01.jpg);
+	float:left;
+	background-position: left center;
+   
+	background-repeat: no-repeat;
+	
+}
+
+.step01_content{
+	padding-left:30px;
+	
+}
+
+.step01_content h1{
+	float:right;
+	
+}
+.step01_content h2{
+	float:left;
+	padding-top:30px;
+	
+}
+
+.step01_content h5{
+	padding-top:50px;
+	font-size:18px;
+	padding-left:20px;
+}
+#fifth-section{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+	
+}
+
+.step02_image{
+	    
+	
+	
+	float:right;
+   width:48%;
+	background-repeat: no-repeat;
+	
+	
+}
+
+.step02_content{
+	padding-right:10px;
+	width:48%;
+	margin:left;
+	float:left;
+}
+
+.step02_content h1{
+	margin: 0 0 0 578px;
+	
+}
+.step02_content h2{
+	float:left;
+	padding-top:30px;
+	
+}
+
+.step02_content h5{
+	padding-top:30px;
+	font-size:18px;
+	padding-left:0px;
+	    margin-top: 0;
+    margin-bottom: 20px;
+
+	
+}
+
+#sixth-section{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+}
+.step03_image{
+	padding: 50% 25% 0% 30%;
+	background-image:url(image/step_03.jpg);
+	float:left;
+	background-position: left center;
+   
+	background-repeat: no-repeat;
+}
+#seventh-section{
+	max-width:1170px;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+
+}
+
+.seventh_left{
+	width:51%;
+	height:150px;
+	float:left;
+	padding-bottom:30px;
+}
+.seventh_left_content{
+	margin: 20px 0 0 0;
+}
+.seventh_left_content h1{
+	margin: 50px 0 0px 0;
+}
+
+.Address-text{
+	margin: 20px 0 0 0;
+}
+
+.Mobile-text{
+	margin: 20px 0 0 0;
+}
+.email-text{
+	margin: 20px 0 0 0;
+}
+
+.email-address p{
+	margin: 80px 0 0 0;
+}
+
+.input-email input{
+	width:250px;
+	margin-top:10px;
+	height:35px;
+	float: left;
+}
+.submit-btn{
+	margin-top:10px;
+	height:35px;
+}
+.button{
+	height:39px;
+	width:50px;
+	background:#87c6be;
+	border: none;
+} 
+
+.seventh_right{
+	width:48%;
+	float:right;
+	margin: 20px 0 0 0;
+}
+
+#footer{
+	max-width:100%;
+	margin:0 auto;
+	padding:0 0;
+	overflow: hidden;
+	background-color:black;
+}
+	
+.footer-text{
+	text-align:center;
+	bottom:0;
+	color:white;
+}
+
+.fa {
+    display: block;
+    overflow: hidden;
+    width: 230px;
+    margin: 10px auto;
+}
+.fa a {
+    float: left;
+    display: inline-block;
+    padding-left: 20px;
+}
+.fa-facebook{
+  
+  
+}
+
+.fa-facebook img{
+	height:50px;
+	width:50px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.fa-twitter{
+	
+}
+.fa-twitter img{
+	height: 40px;
+    width: 40px;
+    margin-top: 5px;
+	
+}
+.fa-google{
+	
+}
+
+.fa-google img{
+	height: 40px;
+    width: 40px;
+    margin-top: 5px;
+}
